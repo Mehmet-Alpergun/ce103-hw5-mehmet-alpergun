@@ -429,7 +429,7 @@ namespace ce103_hw5_mehmet_alpergun
             }
 
             Console.SetCursorPosition(52, 23);
-            Console.Write("Coder: Alper SAHIN");
+            Console.Write("Coder: Mehmet Alpergun");
 
             Console.SetCursorPosition(52, 24);
             Console.Write("Version: 0.5");
